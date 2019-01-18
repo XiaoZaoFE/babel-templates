@@ -1,0 +1,11 @@
+{
+  "name": "babel-template",
+  "version": "1.0.0",
+  "description": "XZ Babel Template",
+  "scripts": {
+    "start": "xiao-zao start",
+    "build": "xiao-zao build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
